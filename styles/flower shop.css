@@ -1,0 +1,28 @@
+/* header related styles */
+.banner { 
+    padding: 30px 30px 30px 200px;
+    display: flex;
+    align-items: center;
+}
+.banner .profile picture{
+    width: 400px;
+}
+
+
+/* common shared style */
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #E554731A;
+    /* width: 900px; */
+    /* display: flex; */
+    /* justify-content: center; */
+}
+.btn-primary{
+    border-radius: 8px;
+background: #E55473;
+border: 0;
+font-size: 20px;
+color: white;
+font-weight: 700;
+padding: 15px 30px;
+}
